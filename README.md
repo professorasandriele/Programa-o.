@@ -1,2 +1,2 @@
-# Programa-o.
+# Programação.
 Ciências de dados.
